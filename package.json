@@ -4,7 +4,7 @@
   "description": "demo",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon app.js | ngrok http 4000"
   },
   "repository": {
     "type": "git",
